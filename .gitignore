@@ -221,3 +221,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SOLVYN - Local database
+solvyn.db
+solvyn.db-journal
+solvyn.db-wal
+solvyn.db-shm
+
+# Virtual environment and secrets
+.venv/
+.env
+.streamlit/secrets.toml
+
+# SQLite local data
+solvyn.db
+solvyn.db-journal
+solvyn.db-wal
+solvyn.db-shm
+
+# Python cache
+__pycache__/
+.pytest_cache/
