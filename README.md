@@ -167,6 +167,13 @@ Solvyn/
 - Model cost estimation
 - Larger automated regression suites
 
+## 🎬 Project Demo
+
+Watch SOLVYN in action — AI evaluations, semantic similarity,
+performance analytics, run comparisons, and reporting.
+
+[▶ Watch SOLVYN Portfolio Demo](./SOLVYN%20Portfolio%20Demo.mp4)
+
 ## Author
 
 **Syed Ali Tarikh**
